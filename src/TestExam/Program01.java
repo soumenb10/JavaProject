@@ -12,7 +12,8 @@ public class Program01 {
 		System.out.println("Hello");
 		System.out.println("India");
 
-
+		System.out.println("Hiii");
+		System.out.println("were");
 	}
 
 }
