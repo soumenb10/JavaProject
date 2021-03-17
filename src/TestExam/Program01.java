@@ -11,6 +11,9 @@ public class Program01 {
 
 		System.out.println("Hello");
 		System.out.println("India");
+		
+		System.out.println("Hey");
+		System.out.println("WB12");
 
 
 	}
