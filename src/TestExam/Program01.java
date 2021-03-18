@@ -18,7 +18,7 @@ public class Program01 {
 		System.out.println("Hiii");
 		System.out.println("were");
 		
-		System.out.println("hello12");
+		System.out.println("helloP1");
 	}
 
 }
